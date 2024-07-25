@@ -1,6 +1,6 @@
 // Clap Light Switch
 // Serhii Bazavluk | March 2021
-// YouTube: https://www.youtube.com/electricalpro
+
 
 int mic = 2;       // microphone module
 int indicLED = 13; // indication pin
