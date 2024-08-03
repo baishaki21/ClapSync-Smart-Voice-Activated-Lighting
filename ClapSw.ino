@@ -1,5 +1,5 @@
 // Clap Light Switch
-// Serhii Bazavluk | March 2021
+
 
 
 int mic = 2;       // microphone module
